@@ -6,7 +6,7 @@ using UnityEngine.XR.WSA.Input;
 
 
 /** Gestures
- * 
+ * Author: Harrison Pham
  * This class is the "2.0 ver" of GesturesManager
  * 
  * The class listens for gesture events, 
