@@ -2,7 +2,7 @@
 A "point 'n click" gestures system, utilizing the Microsoft HoloLens, I created for my senior project in university. 
 
 ## Disclaimer
-This repository is not meant to be used directly. It mainly serves as a resource of a possible approach to a gesture system. I will eventually add a templated/plug-and-play option for use.
+This repository is not meant to be used directly. It mainly serves as a resource of a possible approach to a gesture system.
 
 ## Reasoning for Gesture System
 When following [Microsoft's Mixed Reality tutorials](https://docs.microsoft.com/en-us/windows/mixed-reality/academy), the implementation seemed "clunky" to me (Note: this was around October 2017. Microsoft's implementation has updated since, however, the video guides are still the same). Since I was with a team for this project, I didn't want them to run into many issues when implementing their own gesture features. To minimize this, I had to come up with a system where they can easily specify what gesture(s) they want an object to "react" to.
